@@ -32,65 +32,65 @@ h1, h2, p {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -25px;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
   
 hr {
-    height: 2px;
-    background-color: brown;
-    border-color: brown;
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
 }
   
 .bottom-line {
-    margin-top: 25px;
+  margin-top: 25px;
 }
   
 h1, h2 {
-    font-family: Impact, serif;
+  font-family: Impact, serif;
 }
   
 .item p {
-    display: inline-block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    font-size: 18px;
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
 }
   
 .flavor, .dessert {
-    text-align: left;
-    width: 75%;
+  text-align: left;
+  width: 75%;
 }
   
 .price {
-    text-align: right;
-    width: 25%;
+  text-align: right;
+  width: 25%;
 }
   
 /* FOOTER */
-  
+
 footer {
-    font-size: 14px;
+  font-size: 14px;
 }
   
 .address {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
   
 a {
-    color: black;
+  color: black;
 }
   
 a:visited {
-    color: black;
+  color: black;
 }
   
 a:hover {
-    color: brown;
+  color: brown;
 }
   
 a:active {
-    color: brown;
+  color: brown;
 }
